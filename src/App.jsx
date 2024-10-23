@@ -40,7 +40,7 @@ function App() {
               </code>
             </pre>
           </div>            
-          ) }
+          )}
         </section>
       </main>
     </div>
